@@ -25,3 +25,4 @@ wallpaper=http://raw.githubusercontent.com/porteusconf/kiosk/master/vita.jpg
 wake_on_lan=yes
 zRAM=37%
 additional_components=uefi.zip 08-ssh.xzm initrdpxe.xz 
+run_command=sed -i 's/#su - guest/su - guest/' $scripts/gui-app
