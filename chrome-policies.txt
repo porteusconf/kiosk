@@ -1,2 +1,2 @@
-// enable adding on-screen keyboard extension
-"ExtensionInstallBlacklist": [],
+// un-comment next line to enable adding on-screen keyboard extension
+// "ExtensionInstallBlacklist": [],
