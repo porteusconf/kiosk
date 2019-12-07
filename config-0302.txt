@@ -1,4 +1,4 @@
-kiosk_config=http://bit.ly/3508sFL
+
 connection=wired
 dhcp=yes
 proxy=
@@ -17,9 +17,6 @@ persistence=session
 allow_popup_windows=yes
 suspend_idle=37
 browser_preferences=http://raw.githubusercontent.com/porteusconf/kiosk/master/chrome-policies.txt
-printer_connection=direct
-printer_model=PostScript Level 2
-printer_name=postscript2
 disable_private_mode=yes
 removable_devices=yes
 right_mouse_click=yes
@@ -29,6 +26,4 @@ default_sound_card=0.0
 wallpaper=http://raw.githubusercontent.com/porteusconf/kiosk/master/vita.jpg
 wake_on_lan=yes
 zRAM=37%
-additional_components=uefi.zip 08-ssh.xzm initrdpxe.xz 10-printing.xzm 
-
-
+additional_components=uefi.zip 08-ssh.xzm initrdpxe.xz 
