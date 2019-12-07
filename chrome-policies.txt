@@ -1,0 +1,2 @@
+// enable adding on-screen keyboard extension
+"ExtensionInstallBlacklist": [],
