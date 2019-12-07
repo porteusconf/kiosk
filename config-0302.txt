@@ -1,0 +1,22 @@
+kiosk_config=https://bit.ly/2COBa0g
+connection=wired
+dhcp=yes
+proxy=
+browser=chrome
+client_id=automatic
+password_manager=yes
+disable_private_mode=yes
+#persistence=full
+run_command=sh /home/guest/on_startup.sh
+# may neet some change on PROD
+shutdown_menu=reboot restart-session shutdown sleep
+vnc_interactive=yes
+vnc_password=v
+additional_components=09-x11vnc.xzm uefi.zip 08-ssh.xzm
+# dev parameters
+removable_devices=yes
+allow_icmp_protocol=yes
+debug=yes
+enable_file_protocol=yes
+root_password=v
+kiosk_server=domain.com:443
