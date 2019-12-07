@@ -1,4 +1,4 @@
-kiosk_config=https://bit.ly/2COBa0g
+kiosk_config=http://bit.ly/3508sFL
 connection=wired
 dhcp=yes
 proxy=
