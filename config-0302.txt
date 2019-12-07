@@ -1,7 +1,7 @@
 connection=wired
 dhcp=yes
 proxy=
-browser=firefox
+browser=chrome
 managed_bookmarks=https://vita.taxplayerpro.com http://porteus-kiosk.org
 dpms_idle=27
 enable_file_protocol=yes
