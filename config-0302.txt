@@ -3,6 +3,7 @@ dhcp=yes
 proxy=
 browser=chrome
 managed_bookmarks=https://vita.taxplayerpro.com http://porteus-kiosk.org
+timezone=Factory
 dpms_idle=27
 enable_file_protocol=yes
 homepage=https://vita.taxslayerpro.com|https://accounts.google.com
