@@ -1,0 +1,12 @@
+begin config gle
+   current = 4.2.5
+end config
+
+begin config tools
+   libgs       =  "/usr/lib/x86_64-linux-gnu/libgs.so.9"
+   ghostscript =  "/usr/bin/gs"
+   dvips       =  "/usr/bin/dvips"
+   pdflatex    =  "/usr/bin/pdflatex"		
+   latex       =  "/usr/bin/latex"		
+end config
+
