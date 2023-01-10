@@ -1,42 +1,43 @@
-'OC_Devices' (4f435f44657669636573), bssid=0a:8d:cb:17:17:b0, channel=[100 (flags=0x410, 5GHz, 80MHz)], cc=US, phy=a/n/ac (0x92), rssi=-85, rsn=(null), wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no, hs20=no, age=0ms, match=[(null)]
-
-'OC_Devices' (4f435f44657669636573), bssid=0a:8d:db:17:17:b0, channel=[6 (flags=0xA, 2GHz, 20MHz)], cc=US, phy=b/g/n/ac (0x9C), rssi=-77, rsn=(null), wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no, hs20=no, age=0ms, match=[(null)]
-
-'OC_Devices' (4f435f44657669636573), bssid=e6:cb:ac:32:f3:a0, channel=[40 (flags=0x410, 5GHz, 80MHz)], cc=US, phy=a/n/ac (0x92), rssi=-42, rsn=(null), wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no, hs20=no, age=0ms, match=[(null)]
-
-'OC_Devices' (4f435f44657669636573), bssid=e6:cb:ac:33:04:31, channel=[157 (flags=0x410, 5GHz, 80MHz)], cc=US, phy=a/n/ac (0x92), rssi=-77, rsn=(null), wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no, hs20=no, age=0ms, match=[(null)]
-
-'OC_Devices' (4f435f44657669636573), bssid=e6:cb:bc:32:f3:a0, channel=[1 (flags=0xA, 2GHz, 20MHz)], cc=US, phy=b/g/n/ac (0x9C), rssi=-35, rsn=(null), wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no, hs20=no, age=0ms, match=[(null)]
-
-'OC_Devices' (4f435f44657669636573), bssid=e6:cb:bc:33:04:31, channel=[11 (flags=0xA, 2GHz, 20MHz)], cc=US, phy=b/g/n/ac (0x9C), rssi=-74, rsn=(null), wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no, hs20=no, age=0ms, match=[(null)]
-
-'OC_Devices' (4f435f44657669636573), bssid=e6:cb:bc:33:1f:ee, channel=[6 (flags=0xA, 2GHz, 20MHz)], cc=US, phy=b/g/n/ac (0x9C), rssi=-84, rsn=(null), wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no, hs20=no, age=0ms, match=[(null)]
-
-'Orange_Public_WiFi' (4f72616e67655f5075626c69635f57694669), bssid=1e:8d:cb:17:17:b0, channel=[100 (flags=0x410, 5GHz, 80MHz)], cc=US, phy=a/n/ac (0x92), rssi=-86, rsn=(null), wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no, hs20=no, age=0ms, match=[(null)]
-
-'Orange_Public_WiFi' (4f72616e67655f5075626c69635f57694669), bssid=1e:8d:db:17:17:b0, channel=[6 (flags=0xA, 2GHz, 20MHz)], cc=US, phy=b/g/n/ac (0x9C), rssi=-78, rsn=(null), wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no, hs20=no, age=0ms, match=[(null)]
-
-'Orange_Public_WiFi' (4f72616e67655f5075626c69635f57694669), bssid=f2:cb:ac:32:f3:a0, channel=[40 (flags=0x410, 5GHz, 80MHz)], cc=US, phy=a/n/ac (0x92), rssi=-42, rsn=(null), wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no, hs20=no, age=0ms, match=[(null)]
-
-'Orange_Public_WiFi' (4f72616e67655f5075626c69635f57694669), bssid=f2:cb:ac:33:04:31, channel=[157 (flags=0x410, 5GHz, 80MHz)], cc=US, phy=a/n/ac (0x92), rssi=-77, rsn=(null), wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no, hs20=no, age=0ms, match=[(null)]
-
-'Orange_Public_WiFi' (4f72616e67655f5075626c69635f57694669), bssid=f2:cb:bc:32:f3:a0, channel=[1 (flags=0xA, 2GHz, 20MHz)], cc=US, phy=b/g/n/ac (0x9C), rssi=-35, rsn=(null), wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no, hs20=no, age=0ms, match=[(null)]
-
-'Orange_Public_WiFi' (4f72616e67655f5075626c69635f57694669), bssid=f2:cb:bc:33:04:31, channel=[11 (flags=0xA, 2GHz, 20MHz)], cc=US, phy=b/g/n/ac (0x9C), rssi=-74, rsn=(null), wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no, hs20=no, age=0ms, match=[(null)]
-
-'Orange_Public_WiFi' (4f72616e67655f5075626c69635f57694669), bssid=f2:cb:bc:33:1f:ee, channel=[6 (flags=0xA, 2GHz, 20MHz)], cc=US, phy=b/g/n/ac (0x9C), rssi=-83, rsn=(null), wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no, hs20=no, age=0ms, match=[(null)]
-
-'Seymour_Tech' (5365796d6f75725f54656368), bssid=2e:8d:cb:17:17:b0, channel=[100 (flags=0x410, 5GHz, 80MHz)], cc=US, phy=a/n/ac (0x92), rssi=-86, rsn=[mcast=aes_ccm, bip=none, ucast={ aes_ccm }, auths={ psk }, mfp=no, caps=0x0], wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no, hs20=no, age=0ms, match=[(null)]
-
-'Seymour_Tech' (5365796d6f75725f54656368), bssid=2e:8d:db:17:17:b0, channel=[6 (flags=0xA, 2GHz, 20MHz)], cc=US, phy=b/g/n/ac (0x9C), rssi=-77, rsn=[mcast=aes_ccm, bip=none, ucast={ aes_ccm }, auths={ psk }, mfp=no, caps=0x0], wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no, hs20=no, age=0ms, match=[(null)]
-
-'Seymour_Tech' (5365796d6f75725f54656368), bssid=c2:cb:ac:32:f3:a0, channel=[40 (flags=0x410, 5GHz, 80MHz)], cc=US, phy=a/n/ac (0x92), rssi=-42, rsn=[mcast=aes_ccm, bip=none, ucast={ aes_ccm }, auths={ psk }, mfp=no, caps=0x0], wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no, hs20=no, age=0ms, match=[(null)]
-
-'Seymour_Tech' (5365796d6f75725f54656368), bssid=c2:cb:ac:33:04:31, channel=[157 (flags=0x410, 5GHz, 80MHz)], cc=US, phy=a/n/ac (0x92), rssi=-77, rsn=[mcast=aes_ccm, bip=none, ucast={ aes_ccm }, auths={ psk }, mfp=no, caps=0x0], wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no, hs20=no, age=0ms, match=[(null)]
-
-'Seymour_Tech' (5365796d6f75725f54656368), bssid=c2:cb:bc:32:f3:a0, channel=[1 (flags=0xA, 2GHz, 20MHz)], cc=US, phy=b/g/n/ac (0x9C), rssi=-35, rsn=[mcast=aes_ccm, bip=none, ucast={ aes_ccm }, auths={ psk }, mfp=no, caps=0x0], wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no, hs20=no, age=0ms, match=[(null)]
-
-'Seymour_Tech' (5365796d6f75725f54656368), bssid=c2:cb:bc:33:04:31, channel=[11 (flags=0xA, 2GHz, 20MHz)], cc=US, phy=b/g/n/ac (0x9C), rssi=-74, rsn=[mcast=aes_ccm, bip=none, ucast={ aes_ccm }, auths={ psk }, mfp=no, caps=0x0], wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no, hs20=no, age=0ms, match=[(null)]
-
-'Seymour_Tech' (5365796d6f75725f54656368), bssid=c2:cb:bc:33:1f:ee, channel=[6 (flags=0xA, 2GHz, 20MHz)], cc=US, phy=b/g/n/ac (0x9C), rssi=-84, rsn=[mcast=aes_ccm, bip=none, ucast={ aes_ccm }, auths={ psk }, mfp=no, caps=0x0], wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no, hs20=no, age=0ms, match=[(null)]
-
+total=21,5GHz=9,2GHz=12,ibss=0,hidden=0,passpoint=0,airport=0,rssi,rsn,wpa,wapi,wep,ibss,ph,swap,hs20,age,match,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+OC_Devices' (4f435f44657669636573),bssid=0a:8d:cb:17:17:b0,channel=[100 (flags=0x410,5GHz,80MHz)], cc=US,phy=a/n/ac (0x92),rssi=-85, rsn=(null), wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no,hs20=no,age=0ms, match=[(null)],,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+OC_Devices' (4f435f44657669636573),bssid=0a:8d:db:17:17:b0,channel=[6 (flags=0xA,2GHz,20MHz)], cc=US,phy=b/g/n/ac (0x9C),rssi=-77, rsn=(null), wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no,hs20=no,age=0ms, match=[(null)],,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+OC_Devices' (4f435f44657669636573),bssid=e6:cb:ac:32:f3:a0,channel=[40 (flags=0x410,5GHz,80MHz)], cc=US,phy=a/n/ac (0x92),rssi=-42, rsn=(null), wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no,hs20=no,age=0ms, match=[(null)],,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+OC_Devices' (4f435f44657669636573),bssid=e6:cb:ac:33:04:31,channel=[157 (flags=0x410,5GHz,80MHz)], cc=US,phy=a/n/ac (0x92),rssi=-77, rsn=(null), wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no,hs20=no,age=0ms, match=[(null)],,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+OC_Devices' (4f435f44657669636573),bssid=e6:cb:bc:32:f3:a0,channel=[1 (flags=0xA,2GHz,20MHz)], cc=US,phy=b/g/n/ac (0x9C),rssi=-35, rsn=(null), wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no,hs20=no,age=0ms, match=[(null)],,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+OC_Devices' (4f435f44657669636573),bssid=e6:cb:bc:33:04:31,channel=[11 (flags=0xA,2GHz,20MHz)], cc=US,phy=b/g/n/ac (0x9C),rssi=-74, rsn=(null), wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no,hs20=no,age=0ms, match=[(null)],,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+OC_Devices' (4f435f44657669636573),bssid=e6:cb:bc:33:1f:ee,channel=[6 (flags=0xA,2GHz,20MHz)], cc=US,phy=b/g/n/ac (0x9C),rssi=-84, rsn=(null), wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no,hs20=no,age=0ms, match=[(null)],,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+Orange_Public_WiFi' (4f72616e67655f5075626c69635f57694669),bssid=1e:8d:cb:17:17:b0,channel=[100 (flags=0x410,5GHz,80MHz)], cc=US,phy=a/n/ac (0x92),rssi=-86, rsn=(null), wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no,hs20=no,age=0ms, match=[(null)],,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+Orange_Public_WiFi' (4f72616e67655f5075626c69635f57694669),bssid=1e:8d:db:17:17:b0,channel=[6 (flags=0xA,2GHz,20MHz)], cc=US,phy=b/g/n/ac (0x9C),rssi=-78, rsn=(null), wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no,hs20=no,age=0ms, match=[(null)],,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+Orange_Public_WiFi' (4f72616e67655f5075626c69635f57694669),bssid=f2:cb:ac:32:f3:a0,channel=[40 (flags=0x410,5GHz,80MHz)], cc=US,phy=a/n/ac (0x92),rssi=-42, rsn=(null), wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no,hs20=no,age=0ms, match=[(null)],,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+Orange_Public_WiFi' (4f72616e67655f5075626c69635f57694669),bssid=f2:cb:ac:33:04:31,channel=[157 (flags=0x410,5GHz,80MHz)], cc=US,phy=a/n/ac (0x92),rssi=-77, rsn=(null), wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no,hs20=no,age=0ms, match=[(null)],,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+Orange_Public_WiFi' (4f72616e67655f5075626c69635f57694669),bssid=f2:cb:bc:32:f3:a0,channel=[1 (flags=0xA,2GHz,20MHz)], cc=US,phy=b/g/n/ac (0x9C),rssi=-35, rsn=(null), wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no,hs20=no,age=0ms, match=[(null)],,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+Orange_Public_WiFi' (4f72616e67655f5075626c69635f57694669),bssid=f2:cb:bc:33:04:31,channel=[11 (flags=0xA,2GHz,20MHz)], cc=US,phy=b/g/n/ac (0x9C),rssi=-74, rsn=(null), wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no,hs20=no,age=0ms, match=[(null)],,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+Orange_Public_WiFi' (4f72616e67655f5075626c69635f57694669),bssid=f2:cb:bc:33:1f:ee,channel=[6 (flags=0xA,2GHz,20MHz)], cc=US,phy=b/g/n/ac (0x9C),rssi=-83, rsn=(null), wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no,hs20=no,age=0ms, match=[(null)],,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+Seymour_Tech' (5365796d6f75725f54656368),bssid=2e:8d:cb:17:17:b0,channel=[100 (flags=0x410,5GHz,80MHz)], cc=US,phy=a/n/ac (0x92),rssi=-86, rsn=[mcast=aes_ccm, bip=none, ucast={ aes_ccm }, auths={ psk }, mfp=no,caps=0x0], wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no,hs20=no,age=0ms, match=[(null)]
+,,,,,,,,,,,,,,,,,,,,,,
+Seymour_Tech' (5365796d6f75725f54656368),bssid=2e:8d:db:17:17:b0,channel=[6 (flags=0xA,2GHz,20MHz)], cc=US,phy=b/g/n/ac (0x9C),rssi=-77, rsn=[mcast=aes_ccm, bip=none, ucast={ aes_ccm }, auths={ psk }, mfp=no,caps=0x0], wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no,hs20=no,age=0ms, match=[(null)]
+,,,,,,,,,,,,,,,,,,,,,,
+Seymour_Tech' (5365796d6f75725f54656368),bssid=c2:cb:ac:32:f3:a0,channel=[40 (flags=0x410,5GHz,80MHz)], cc=US,phy=a/n/ac (0x92),rssi=-42, rsn=[mcast=aes_ccm, bip=none, ucast={ aes_ccm }, auths={ psk }, mfp=no,caps=0x0], wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no,hs20=no,age=0ms, match=[(null)]
+,,,,,,,,,,,,,,,,,,,,,,
+Seymour_Tech' (5365796d6f75725f54656368),bssid=c2:cb:ac:33:04:31,channel=[157 (flags=0x410,5GHz,80MHz)], cc=US,phy=a/n/ac (0x92),rssi=-77, rsn=[mcast=aes_ccm, bip=none, ucast={ aes_ccm }, auths={ psk }, mfp=no,caps=0x0], wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no,hs20=no,age=0ms, match=[(null)]
+,,,,,,,,,,,,,,,,,,,,,,
+Seymour_Tech' (5365796d6f75725f54656368),bssid=c2:cb:bc:32:f3:a0,channel=[1 (flags=0xA,2GHz,20MHz)], cc=US,phy=b/g/n/ac (0x9C),rssi=-35, rsn=[mcast=aes_ccm, bip=none, ucast={ aes_ccm }, auths={ psk }, mfp=no,caps=0x0], wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no,hs20=no,age=0ms, match=[(null)]
+,,,,,,,,,,,,,,,,,,,,,,
+Seymour_Tech' (5365796d6f75725f54656368),bssid=c2:cb:bc:33:04:31,channel=[11 (flags=0xA,2GHz,20MHz)], cc=US,phy=b/g/n/ac (0x9C),rssi=-74, rsn=[mcast=aes_ccm, bip=none, ucast={ aes_ccm }, auths={ psk }, mfp=no,caps=0x0], wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no,hs20=no,age=0ms, match=[(null)]
+,,,,,,,,,,,,,,,,,,,,,,
+Seymour_Tech' (5365796d6f75725f54656368),bssid=c2:cb:bc:33:1f:ee,channel=[6 (flags=0xA,2GHz,20MHz)], cc=US,phy=b/g/n/ac (0x9C),rssi=-84, rsn=[mcast=aes_ccm, bip=none, ucast={ aes_ccm }, auths={ psk }, mfp=no,caps=0x0], wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no,hs20=no,age=0ms, match=[(null)]
