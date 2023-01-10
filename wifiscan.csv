@@ -1,4 +1,4 @@
-total=21," 5GHz=9"," 2GHz=12"," ibss=0"," hidden=0"," passpoint=0"," airport=0",rssi,rsn,wpa,wapi,wep,ibss,ph,swap,hs20,age,match,,,,,
+"total=21","5GHz=9"," 2GHz=12"," ibss=0"," hidden=0"," passpoint=0"," airport=0",rssi,rsn,wpa,wapi,wep,ibss,ph,swap,hs20,age,match,,,,,
 
 'OC_Devices' (4f435f44657669636573), bssid=0a:8d:cb:17:17:b0, channel=[100 (flags=0x410, 5GHz, 80MHz)], cc=US, phy=a/n/ac (0x92), rssi=-85, rsn=(null), wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no, hs20=no, age=0ms, match=[(null)]
 
